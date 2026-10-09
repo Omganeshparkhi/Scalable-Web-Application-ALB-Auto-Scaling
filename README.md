@@ -64,22 +64,22 @@ Amazon CloudWatch monitors CPU utilization. A target tracking scaling policy is 
 11. Opened the application using the ALB DNS name.
 12. Monitored CPU utilization through Amazon CloudWatch.
 
-## 5. Screenshots of Important Configurations and Results
+## Project Screenshots
 
-### 5.1 AMI Available
+### 1. AMI Available
 ![AMI Available](Screenshots/01-AMI-Available.png)
 
-### 5.2 Launch Template
+### 2. Launch Template
 ![Launch Template](Screenshots/02-Launch-Template.png)
 
-### 5.3 Auto Scaling Group
+### 3. Auto Scaling Group
 ![Auto Scaling Group](Screenshots/03-Auto-Scaling-Group.png)
 
-### 5.4 Target Group Health
-![Target Group Health](Screenshots/04-Target-Group-Healthy.png)
+### 4. Target Group Health
+![Target Group Healthy](Screenshots/04-Target-Group-Healthy.png)
 
-### 5.5 Website with Server ID
-![Website with Server ID](Screenshots/05-Website-Server-ID.png)
+### 5. Website with Server ID
+![Website Server ID](Screenshots/05-Website-Server-ID.png)
 
 ## 6. How to Run or Deploy the Project
 
