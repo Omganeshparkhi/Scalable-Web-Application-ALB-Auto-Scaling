@@ -67,19 +67,19 @@ Amazon CloudWatch monitors CPU utilization. A target tracking scaling policy is 
 ## Project Screenshots
 
 ### 1. AMI Available
-![AMI Available](Screenshots/01-AMI-Available.png)
+![AMI Available](01-AMI-Available.png)
 
 ### 2. Launch Template
-![Launch Template](Screenshots/02-Launch-Template.png)
+![Launch Template](02-Launch-Template.png)
 
 ### 3. Auto Scaling Group
-![Auto Scaling Group](Screenshots/03-Auto-Scaling-Group.png)
+![Auto Scaling Group](03-Auto-Scaling-Group.png)
 
 ### 4. Target Group Health
-![Target Group Healthy](Screenshots/04-Target-Group-Healthy.png)
+![Target Group Healthy](04-Target-Group-Healthy.png)
 
 ### 5. Website with Server ID
-![Website Server ID](Screenshots/05-Website-Server-ID.png)
+![Website Server ID](05-Website-Server-ID.png)
 
 ## 6. How to Run or Deploy the Project
 
